@@ -2,7 +2,7 @@ __Student_TODO:__
 
 < 2021\10\10 >
 
-< Alaa ALsuliman>  
+< Alaa AlSuliman>  
 Cohort < 1 >
 
 
@@ -10,20 +10,20 @@ Cohort < 1 >
 
    __Student_TODO:__ 
  
-  < What is your career goal? () >  
-  < Which financial services or products would you like to work with? >  
-  < Which technologies do you want to contribute to? >  
-  < Which problems or opportunities do you want to focus on? >  
+  < What is your career goal? (I want to be CFO in STC Solutions co) >  
+  < Which financial services or products would you like to work with? (Stocks tranding) >  
+  < Which technologies do you want to contribute to? (The technologies that helps in finance field)>  
+  < Which problems or opportunities do you want to focus on? (Work in cryptocurrency) >  
 
 ### Student mini-CV:
 
   __Student_TODO:__
 
   - Degrees Completed:    
-        < eg: BSc Computer Science '14, MSc Computer Engineering 15', PhD Finance '21 >
+        < eg: Bachelor's degree in Finance and investment  >
   - Top 3 Technical skills:    
-        < eg: Excel, Python, Java, SQL, AWS, VBA, PowerPoint, Adobe Illustrator, etc. >
+        < eg: Excel, Python, PowerPoint >
   - Top 3 Personal strengths:   
-       < eg: great team player, personable, professional, natural leader, reliable, hard worker, amazing sense of humor, etc. >
+       < eg: great team player, reliable, hard worker, amazing sense of humor >
   - Top 3 Interests in Fintech:    
-       < eg: Algorthmic Trading, Blockchain, Smart Contracts, RegTech (regulations) , InsureTech (insurance), payments & remittence, etc >
+       < eg: Algorthmic Trading, Blockchain,payments & remittence  >
