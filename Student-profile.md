@@ -20,10 +20,10 @@ Cohort < 1 >
   __Student_TODO:__
 
   - Degrees Completed:    
-        < eg: Bachelor's degree in Finance and investment  >
+        <  Bachelor's degree in Finance and investment  >
   - Top 3 Technical skills:    
-        < eg: Excel, Python, PowerPoint >
+        <  Excel, Python, PowerPoint >
   - Top 3 Personal strengths:   
-       < eg: great team player, reliable, hard worker, amazing sense of humor >
+       <  great team player, reliable, hard worker, amazing sense of humor >
   - Top 3 Interests in Fintech:    
-       < eg: Algorthmic Trading, Blockchain,payments & remittence  >
+       <  Algorthmic Trading, Blockchain,payments & remittence  >
