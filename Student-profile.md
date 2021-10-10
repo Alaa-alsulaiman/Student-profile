@@ -10,7 +10,7 @@ Cohort < 1 >
 
    __Student_TODO:__ 
  
-  < What is your career goal? (Think 5 year's from now) >  
+  < What is your career goal? () >  
   < Which financial services or products would you like to work with? >  
   < Which technologies do you want to contribute to? >  
   < Which problems or opportunities do you want to focus on? >  
