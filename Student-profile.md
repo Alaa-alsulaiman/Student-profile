@@ -1,6 +1,6 @@
 __Student_TODO:__  
 
-< 2021\10\10 >
+< 2021\11\21 >
 
 < Alaa AlSuliman>  
 Cohort < 1 >
@@ -11,9 +11,9 @@ Cohort < 1 >
    __Student_TODO:__ 
  
   < What is your career goal? (I want to be CFO in STC Solutions co) >  
-  < Which financial services or products would you like to work with? (Stocks tranding) >  
+  < Which financial services or products would you like to work with? (Asset and wealth management) >  
   < Which technologies do you want to contribute to? (The technologies that helps in finance field)>  
-  < Which problems or opportunities do you want to focus on? (Work in cryptocurrency) >  
+  < Which problems or opportunities do you want to focus on? (Security & Fraud in credit card) >  
 
 ### Student mini-CV:
 
